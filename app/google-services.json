@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539767080080",
+    "project_id": "fir-cloudpushnotificatio-54d48",
+    "storage_bucket": "fir-cloudpushnotificatio-54d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539767080080:android:2b64179d33c1b98bbdc415",
+        "android_client_info": {
+          "package_name": "com.sebqv97.firebasecloudpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539767080080-nbuqsfudmat61fp8an33u89k9mr0iee2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt4Fm7jj1BMmH2TX-EHkyfIyoh7QEzpSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539767080080-nbuqsfudmat61fp8an33u89k9mr0iee2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
